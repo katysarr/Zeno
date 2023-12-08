@@ -1,0 +1,42 @@
+
+.nom{
+     display: flex;
+    justify-content: space-around;
+    box-shadow: 1px 1px 1px white;
+    background-color: whitesmoke;
+    color: black;
+     align-items: center; 
+}
+.prenom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    margin: 100px;
+    color: white;
+    
+}
+/* .text{
+    margin-top: 205px;
+    margin-left: 20px;
+} */
+.icone{
+    margin-top: -100px;
+}
+.nom a{
+color: black;
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
+.solide{
+    margin-top: -199px;
+}
+.icon{
+    margin-left: 150px;
+    
+}
+.nav{
+    margin-left: 80px;
+}
